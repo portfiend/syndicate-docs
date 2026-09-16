@@ -22,7 +22,7 @@ This page exists to streamline the process of backporting by creating a list of 
 **This is not a formal voting page.** Not every PR in this list has implicit conceptual or code approval from all microcosms. Even if a PR is listed as being approved by all microcosms, it will still require a formal vote before being merged.
 
 If you wish to add a PR to this list, please open a PR on our [docs repository](https://github.com/syndicate-ss14/docs)!
-<!-- mq note: might be cool to set up a little bot or something that can also auto-open issues for this. having that done could even be used AS a formal vote. thats a whole process. but really anything to streamline devstuffs ya know -->
+{/* mq note: might be cool to set up a little bot or something that can also auto-open issues for this. having that done could even be used AS a formal vote. thats a whole process. but really anything to streamline devstuffs ya know */}
 
 ## PR Categories
 | Category | Description |

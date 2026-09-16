@@ -6,12 +6,12 @@ tags:
 # Community Documentation Index
 
 ## Overview
-While a majority of the game's documentation can be found on the official <!-- NOTE REPLACE THIS WHEN SWF DOCS ARE UP --> [developer wiki](https://docs.spacestation14.com/index.html), SS14 also has a lot of community-made resources scattered around the internet. This page serves as a handy index for those resources.
+While a majority of the game's documentation can be found on the official [developer wiki](https://docs.spacestation14.com/index.html), SS14 also has a lot of community-made resources scattered around the internet. This page serves as a handy index for those resources.
 
 If you wish to add a link to this index, please open a PR on our [docs repository](https://github.com/syndicate-ss14/docs) or ping @mqole on our [Discord server](https://discord.gg/rtmPwXbvrQ).
 
 ## Links
-<!-- ALPHABETICAL PLEASE!!! -->
+{/* ALPHABETICAL PLEASE!!! */}
 
 - [A Quick Guide to Feedback](https://docs.google.com/document/d/1-FfZou99gg5i4zdTKy01r-8VkyFn-ILwunuEYeQ94Uc/edit?usp=drivesdk) by DOSRG
 - [Beck's Robust ECS for Dummies](https://docs.google.com/document/d/1GCzkuWUqCNcl4WrmQQMbWgB5q8o0k6LYI46hqSt5cPY/edit?tab=t.0) by widgetbeck

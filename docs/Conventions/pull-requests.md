@@ -69,7 +69,7 @@ Additionally, changes to a YAML prototype that add components should be added to
 
 #### Some examples of appropriate comments in a YML file:
 
-<!-- code from impstation#2744 w/ comments changed -->
+{/* code from impstation#2744 w/ comments changed */}
 ```yml
 - type: entityTable
   id: LetterRareEntityTable
@@ -98,7 +98,7 @@ Additionally, changes to a YAML prototype that add components should be added to
 ```
 This prefix and suffix format is preferable if a large amount of additions are made to the prototype; a suffix is only necessary if the prototype continues after the additions.
 
-<!-- code from impstation#3319 with comments changed -->
+{/* code from impstation#3319 with comments changed. TODO: solutions refactor, this code should be updated */}
 ```yml
 - type: reagent
   id: Egg
@@ -127,7 +127,7 @@ Note that there is just one comment here, on the line with the effect type; even
 
 #### Some examples of appropriate comments in a CS file:
 
-<!-- code from impstation#4024 w/ comments changed -->
+{/* code from impstation#4024 w/ comments changed */}
 ```csharp
 [DataField("damage")] public DamageSpecifier Damage = new()
 {
@@ -139,7 +139,7 @@ Note that there is just one comment here, on the line with the effect type; even
 ```
 This inline comment is preferable for very small, single line changes. Note how the comment also indicates what change was made, preserving the original intent for quick reference.
 
-<!-- code from funky-station#368 w/ comments changed-->
+{/* code from funky-station#368 w/ comments changed */}
 ```csharp
 // BEGIN Macrocosm
 // Smoking in bed is dangerous!
@@ -162,7 +162,7 @@ Code should at minimum come with summary comments on Functions, Classes and Vari
 
 Here is a sample of a well-summarized, fully explained piece of code:
 
-<!-- code from impstation#3946 i picked this one because its funny sorry fan -->
+{/* code from impstation#3946 i picked this one because its funny sorry fan */}
 ```csharp
     /// <summary>
     /// Our function for handling the breeding action once all checks are finished and the
