@@ -1,4 +1,5 @@
 ---
+description: 'A private, roleplay focused 18+ MRP server where roleplay takes precedence over gameplay.'
 tags:
   - microcosms
 ---

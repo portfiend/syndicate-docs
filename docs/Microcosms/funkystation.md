@@ -1,4 +1,5 @@
 ---
+description: 'A seriously silly dark comedy set on a doomed space station, with an emphasis on playing your character.'
 tags:
   - microcosms
 ---

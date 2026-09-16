@@ -10,8 +10,6 @@ You do not have to be part of a Microcosm to use Macrocosm, or to contribute to 
 
 ### Current Microcosms
 
-[Funky Station](docs/Microcosms/funkystation.md)
+import DocCardList from '@theme/DocCardList';
 
-[IMPstation](docs/Microcosms/impstation.md)
-
-[The Den](docs/Microcosms/theden.md)
+<DocCardList/>

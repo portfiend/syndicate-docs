@@ -1,4 +1,5 @@
 ---
+description: 'A private, invite-only MRP server for fans of RTVS.'
 tags:
   - microcosms
 ---
