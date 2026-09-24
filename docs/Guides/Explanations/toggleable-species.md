@@ -36,7 +36,7 @@ Metabolizer types appear in the guidebook as "conditions" attached to a reagent'
 
 ## The new system for enabling species
 
-Macrocosm has a new folder called `_Features`, which is used to provide ways to easily toggle a feature on or off. Each species gets their own YML file in the `/_Features/Species/` folder, which allows you to enable a species in a single line change.
+Macrocosm has a new folder `_MACRO/_Features`, which is used to provide ways to easily toggle a feature on or off. Each species gets their own YML file in the `/_Features/Species/` folder, which allows you to enable a species in a single line change.
 
 Here is an example Feature file for Allulalo:
 
