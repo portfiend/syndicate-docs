@@ -91,7 +91,7 @@ We do not need to **remove** anything from the game to do all of this - just hid
 Making something "only accessible to admins and developers" is a perfectly fine way to disable a feature from the game, and well within the scope of Macrocosm's conventions. In fact, we encourage letting admins and developers have additional tools for creating events and surprises for players!
 :::
 
-Implementing a system like this involves defining a few new `DataField`s for some prototypes so that they can be hidden from the player via YAML. In this case, it's easiest to use "boolean" values (true/false) for this, as the `roundstart` property of species is also a boolean, and YAML anchors can only copy value s that are the same type.
+Implementing a system like this involves defining a few new `DataField`s for some prototypes so that they can be hidden from the player via YAML. In this case, it's easiest to use "boolean" values (true/false) for this, as the `roundstart` property of species is also a boolean, and YAML anchors can only copy values that are the same type.
 
 The rest was accomplished via the use of **partial prototypes**, a means of modifying fields of YAML-defined prototypes selectively. We do not need to re-define the entire species; we just need to change the value of `roundstart`, and the rest should take care of itself.
 
